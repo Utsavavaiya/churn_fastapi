@@ -40,8 +40,8 @@ churn_fastapi
 ### Clone the repository
 
 ```bash
-git clone <repo-url>
-cd <repo-folder>
+git clone git clone https://github.com/Utsavavaiya/churn_fastapi.git
+cd churn_fastapi
 ```
 
 ### Create and activate a virtual environment
